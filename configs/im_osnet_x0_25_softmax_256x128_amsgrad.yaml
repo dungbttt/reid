@@ -6,6 +6,7 @@ data:
   type: 'image'
   sources: ['market1501']
   targets: ['market1501']
+  root: 'reid_data/'
   height: 256
   width: 128
   combineall: False
